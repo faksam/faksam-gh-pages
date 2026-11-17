@@ -1,0 +1,9 @@
+{
+  "title": "Quick Links",
+  "links": [
+    { "label": "Read my articles on Medium", "url": "https://medium.com/@faksam" },
+    { "label": "My GitHub", "url": "https://github.com/faksam" },
+    { "label": "Connect on LinkedIn", "url": "https://www.linkedin.com/in/faksam/" },
+    { "label": "About me", "url": "https://fakunlesamuel.com" }
+  ]
+}
